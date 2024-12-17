@@ -27,11 +27,11 @@ Below is a collection of my featured projects and resources. Each project folder
 ### 1. **JavaScript Booster Class 2024**  
    - **Description:** Complete code repository for my JavaScript teaching sessions (Online & In-Person).  
    - **Tech Stack:** JavaScript, HTML, CSS  
-   - **Repository:** [Link to Repo](#)  
+   - **Repository:** [Link to Repo](https://github.com/ITSAAMI/javascript-booster-class-2024)  
 
 ### 2. **MLM Dashboard Project**  
    - **Description:** A multi-level marketing dashboard for Admin, Accounts, and Payment Teams.  
-   - **Tech Stack:** PHP, MySQL, JavaScript  
+   - **Tech Stack:** PHP, MySQL, JavaScript, Bootstrap 4, HTML, CSS 
    - **Repository:** [Link to Repo](#)  
 
 ### 3. **React Todo List App**  
@@ -49,10 +49,17 @@ Below is a collection of my featured projects and resources. Each project folder
    - **Tech Stack:** Bootstrap 4, HTML, CSS  
    - **Repository:** [Link to Repo](#)  
 
-### 6. **Earning on Twitter Guide**  
-   - **Description:** Resources and methods to earn money through Twitter/X.com.  
+### 6. **JavaScript Booster Class 2024
+**  
+   - **Description:** About A complete JavaScript code resource for the Online and In-Person Booster Class 2024 by Syed Amir Hayat Kakakhel. Includes practical examples, projects, and concepts to master JavaScript efficiently. 
    - **Content:** Documented strategies for students and professionals.  
-   - **Repository:** [Link to Repo](#)  
+   - **Repository:** [Link to Repo](https://github.com/ITSAAMI/javascript-booster-class-2024)
+
+### 7. **Number Guessing Game**  
+   - **Description:** About
+A simple C++ console game where the computer randomly selects a number between 1 and 100, and the player guesses it with hints like "Too high" or "Too low" until they find the correct number.  
+   - **Content:** Documented strategies for students and professionals.  
+   - **Repository:** [Link to Repo](https://github.com/ITSAAMI/number-guessing-game)
 
 ---
 
